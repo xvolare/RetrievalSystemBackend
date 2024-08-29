@@ -8,3 +8,4 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:1234@127.0.0.1:330
 
 # 数据库连接对象
 db_init = SQLAlchemy(app)
+#test
